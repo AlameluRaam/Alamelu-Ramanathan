@@ -5,7 +5,9 @@ A highly accomplished educator and curriculum developer with over 17 years of ex
 ________________________________________
 
 SPEAKING & THOUGHT LEADERSHIP
+
 This section showcases your regional and international public engagement and knowledge dissemination:
+
 •	AI Conference Panellist (SG Tech Tertiary & Temasek Foundation): Participated as a panellist in the AI Conference 2025 (Jan 2025), sharing insights on the latest AI technologies and their impacts with participants from Singapore, Malaysia, and Indonesia.
 •	International Tech Speaker (VIBE Coding): Served as a speaker for Weempowersg.org, delivering a session on VIBE Coding to over 200 participants from five countries: Singapore, Malaysia, Philippines, India, and Indonesia.
 •	LinkedIn Newsletter Editor: Maintained a professional LinkedIn Newsletter, "The AI Edge," with 500+ subscribers to keep the community abreast of the latest technology trends.
